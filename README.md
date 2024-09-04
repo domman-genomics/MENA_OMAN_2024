@@ -102,6 +102,3 @@ This workshop will provide training in molecular and genomic approaches to infec
   - [Lecture Slides](lectures/10_Nextstrain.pdf)
   - [Online Manual](manuals/08_nextstrain/README.md)
 
-## Bioinformatics Course Manual
-**Virtual Machine Setup Guide**
-- [VM Guide](manuals/VM_Setup_Guide.pdf)
